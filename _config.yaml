@@ -1,3 +1,12 @@
-title: Jamal Dolah
-description: Portfolio Website
+title: "Jamal Dolah"
+description: "Software Engineer Portfolio"
 theme: jekyll-theme-minimal
+logo: /assets/ME.jpg
+show_downloads: false
+google_analytics: false
+
+# Links
+social_links:
+  github: JamalDolah
+  linkedin: jamal-dolah
+  email: jamaldolah723@gmail.com
