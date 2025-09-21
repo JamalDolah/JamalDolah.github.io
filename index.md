@@ -28,6 +28,6 @@ Passionate about solving problems and building innovative solutions.
   Java + Spring Boot  
   [🔗 GitHub Repo](https://github.com/JamalDolah/Personal-finance-system-CIS404)
 
-- **Jimbo Jump / Jimbo Bird** *(Coming Soon)*  
+- **Jimbo Jump and Jimbo Bird** *(Coming Soon)*  
   C# + Unity Engine
 
