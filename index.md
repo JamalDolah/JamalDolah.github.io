@@ -1,9 +1,6 @@
----
-layout: default
-title: Home
----
-
 # 👋 Hi, I'm Jamal Dolah
+
+![Jamal Dolah portrait](assets/Me.jpg){:width="45%"}
 
 I’m a results-driven **Software Engineer** with a strong foundation in full-stack development, machine learning, and scalable systems.  
 Passionate about solving problems and building innovative solutions.  
