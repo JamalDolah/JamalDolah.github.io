@@ -16,9 +16,18 @@ Passionate about solving problems and building innovative solutions.
 
 ## 🚀 Featured Projects
 
-- **[Stock Recommendation App]([projects.md#stock-recommendation-app](https://github.com/JamalDolah/Stocks-recommendation-CIS303))** – Next.js + Express.js + MySQL  
-- **[Jimbo’s Calorie Counter]([projects.md#jimbos-calorie-counter](https://github.com/JamalDolah/Jimbos_calorie_counter))** – Flask + MySQL + Plotly  
-- **[Personal Finance System]([projects.md#personal-finance-system)**](https://github.com/JamalDolah/Personal-finance-system-CIS404) – Java + Spring Boot
-- **[Jimbo Jump/Jimbo Bird]** *Coming Soon* – C# + Unity Engine
+- **[Stock Recommendation App](projects.md#stock-recommendation-app)**  
+  Next.js + Express.js + MySQL  
+  [🔗 GitHub Repo](https://github.com/JamalDolah/Stocks-recommendation-CIS303)
 
-[See all projects →](projects.md)
+- **[Jimbo’s Calorie Counter](projects.md#jimbos-calorie-counter)**  
+  Flask + MySQL + Plotly  
+  [🔗 GitHub Repo](https://github.com/JamalDolah/Jimbos_calorie_counter)
+
+- **[Personal Finance System](projects.md#personal-finance-system)**  
+  Java + Spring Boot  
+  [🔗 GitHub Repo](https://github.com/JamalDolah/Personal-finance-system-CIS404)
+
+- **Jimbo Jump / Jimbo Bird** *(Coming Soon)*  
+  C# + Unity Engine
+
